@@ -6,6 +6,14 @@
   height: 40vmin;
   pointer-events: none;
 }
+.App h4{
+  padding: 3px;
+  margin: 3px;
+}
+.total-player {
+  background-color: lightcyan;
+  padding:6px 0;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

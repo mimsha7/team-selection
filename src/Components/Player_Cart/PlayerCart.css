@@ -1,0 +1,38 @@
+.card {
+    margin: 24px 10px;
+    border: 1px solid goldenrod;
+    border-radius: 0 9px;
+    box-shadow: 8px 8px 16px lightsalmon;
+    background-color: transparent;
+    cursor: pointer;
+}
+.player-img {
+    border-radius: 0 8px;
+    box-shadow: 1px 1px 5px gray;
+}
+.player-select {
+    background-color: lightgreen;
+    padding: 6px 0;
+}
+.total-salary {
+    background-color: lightgoldenrodyellow;
+    padding: 6px 0;
+}
+.card:hover {
+    box-shadow: 2px 2px 8px goldenrod;
+}
+.card-title {
+    font-size: 20px;
+    line-height: 0;
+    padding-top: 10px;
+    color: goldenrod;
+    
+}
+.card-body {
+    align-items: center;
+    justify-content: center;
+    margin-top: 16%;
+}
+.card-body h4{
+    font-weight: 600;
+}
